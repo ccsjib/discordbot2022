@@ -1,0 +1,29 @@
+{
+  "name": "discordbot2022",
+  "version": "1.0.0",
+  "description": "discord bot :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccsjib/discordbot2022.git"
+  },
+  "keywords": [
+    "discordbot"
+  ],
+  "author": "ccsjib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccsjib/discordbot2022/issues"
+  },
+  "homepage": "https://github.com/ccsjib/discordbot2022#readme",
+  "dependencies": {
+    "discord.js": "^14.4.0",
+    "dotenv": "^16.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  }
+}
