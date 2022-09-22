@@ -1,5 +1,5 @@
 const { REST, SlashCommandBuilder, Routes } = require('discord.js');
-const { 1022213838755594331, 775355712271941644, MTAyMjIxMzgzODc1NTU5NDMzMQ.GBXbgX.rgvbuoxYxiAZ21CevNYZP6FZdm6LRJIyCZcevU } = require('./config.json');
+const { clientId, guildId, token } = require('./config.json');
 
 const commands = [
 	new SlashCommandBuilder().setName('ping').setDescription('Replies with pong!'),
