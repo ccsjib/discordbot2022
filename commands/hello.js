@@ -8,3 +8,6 @@ module.exports = {
 		await interaction.reply('Hi :)!');
 	},
 };
+
+
+//test
